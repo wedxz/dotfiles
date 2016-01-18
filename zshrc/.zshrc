@@ -1,0 +1,1 @@
+/Users/vvusu/Dropbox/Mackup/.zshrc
